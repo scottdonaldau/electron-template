@@ -18,7 +18,7 @@ The following software must be installed:
 ## Installation
 
 ``` bash
-$ vue init nuxt-community/electron-template my-project  
+$ vue init scottdonaldau/electron-template my-project  
 $ cd my-project
 # install dependencies
 $ npm install # Or yarn
